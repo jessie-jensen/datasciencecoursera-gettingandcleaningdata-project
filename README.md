@@ -15,4 +15,13 @@ Comments within the R script build off of these instructions.
 2. The 'reshape2' R package be installed and loaded. The library call is included within the script.
 
 ###Tidy Data Set
-The final "tidy_data.txt" data set contains the average of the 66 mean and std variables found within the original feature set, for the combined test and train data sets.
+The final "tidy_data.txt" data set contains the mean calculated on each of the 66 mean and std variables found within the original feature set. The test and train data sets were combined to create this data set.
+
+###Code Book
+The "Subject" dimension variable corresponds to the subject ID, ranging from 1-30.
+
+The "Activity" dimension variable corresponds to the activity the subject was performing.
+
+See the included "features_info.txt" for more information on each of the individual variables.
+
+See "samsung_data_README.txt" for more information on the original data set.
