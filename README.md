@@ -10,5 +10,9 @@
 
 Comments within the R script build off of these instructions.
 
+###Requirements to run R script
+1. "UCI HAR Dataset" data repo be located in the current working directory, unaltered in its original form.
+2. The 'reshape2' R package be installed and loaded. The library call is included within the script.
 
-The final "tidy_data.txt" data set f
+###Tidy Data Set
+The final "tidy_data.txt" data set contains the average of the 66 mean and std variables found within the original feature set, for the combined test and train data sets.
