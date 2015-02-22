@@ -1,9 +1,9 @@
 #Tidy Data Set Code Book
-The "Subject" dimension variable corresponds to the subject ID, ranging from 1-30.
+1. The "Subject" dimension variable corresponds to the subject ID, ranging from 1-30.
 
-The "Activity" dimension variable corresponds to the activity the subject was performing. The set of possible values are {WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING}.
+2. The "Activity" dimension variable corresponds to the activity the subject was performing. The set of possible values are {WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING}.
 
-Each of the other 66 fact variables are the calculated mean for the stated varible for the given "Subject" and "Activity". 
+3. Each of the other 66 fact variables are the calculated mean for the stated varible for the given "Subject" and "Activity". 
 
 __________
 
