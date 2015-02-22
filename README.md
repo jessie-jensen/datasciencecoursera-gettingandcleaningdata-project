@@ -24,4 +24,4 @@ The "Activity" dimension variable corresponds to the activity the subject was pe
 
 See the included "features_info.txt" for more information on each of the individual variables.
 
-See "samsung_data_README.txt" for more information on the original data set.
+See "samsung_data_readme.txt" for more information on the original data set.
